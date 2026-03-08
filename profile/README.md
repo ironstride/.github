@@ -1,7 +1,7 @@
 # 🥊 Ironstride Entertainment
 Blurb here
 
-### Meet the Team 🏗️:
+### Meet the Team 🏗️
 * [Ethan](https://github.com/hexedethan) (Founder & Lead Developer) - Description Here
 ___
 
