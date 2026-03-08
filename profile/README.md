@@ -16,3 +16,7 @@ Here's what we use to create awesome things for awesome people, with ❤️.
 * <img height="18" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png"> MongoDB - Description here.
 * <img height="18" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png?raw=true"> Visual Studio Code - Description Here
 * <img height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Roblox_Studio_logo_2021_present.svg/1200px-Roblox_Studio_logo_2021_present.svg.png"> Roblox Studio - Description Here
+___
+
+### ❤️ Credits
+- [@SakuraKitchen](https://github.com/SakuraKitchen) for the inspiration their profile README served in creating ours.
